@@ -16,5 +16,7 @@
 
 #copyright
 
+how ti contribute
+
 ##how to contribute
 
