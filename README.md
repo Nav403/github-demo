@@ -21,3 +21,5 @@ how ti contribute
 
 ##how to contribute
 
+all right reserved
+
