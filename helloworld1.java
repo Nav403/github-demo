@@ -1,5 +1,9 @@
-public class hello{
-	public static void main(String[] args){
-		System.out.println("Hello");
-	}
+public class helloworld1{
+  public static void main(String[] args) {
+
+    char c;
+
+    for(c = 'A'; c <= 'Z'; ++c)
+      System.out.print(c + " ");
+    }
 }
